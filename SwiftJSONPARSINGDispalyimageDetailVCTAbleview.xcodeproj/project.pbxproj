@@ -14,6 +14,33 @@
 		F15E77BB20A3266E00B42672 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F15E77B920A3266E00B42672 /* LaunchScreen.storyboard */; };
 		F15E77C620A3266F00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77C520A3266F00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleviewTests.swift */; };
 		F15E77D120A3266F00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77D020A3266F00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests.swift */; };
+		F15E77E620A32A9500B42672 /* JsonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77E520A32A9500B42672 /* JsonModel.swift */; };
+		F15E780020A32AB600B42672 /* KingfisherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77E820A32AB000B42672 /* KingfisherManager.swift */; };
+		F15E780120A32AB600B42672 /* ImageTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77E920A32AB100B42672 /* ImageTransition.swift */; };
+		F15E780220A32AB600B42672 /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77EA20A32AB100B42672 /* Filter.swift */; };
+		F15E780320A32AB600B42672 /* ThreadHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77EB20A32AB100B42672 /* ThreadHelper.swift */; };
+		F15E780420A32AB600B42672 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77EC20A32AB100B42672 /* Box.swift */; };
+		F15E780520A32AB600B42672 /* ImageModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77ED20A32AB200B42672 /* ImageModifier.swift */; };
+		F15E780620A32AB600B42672 /* ImageDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77EE20A32AB200B42672 /* ImageDownloader.swift */; };
+		F15E780720A32AB600B42672 /* ImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77EF20A32AB200B42672 /* ImageProcessor.swift */; };
+		F15E780820A32AB600B42672 /* String+MD5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F020A32AB200B42672 /* String+MD5.swift */; };
+		F15E780920A32AB600B42672 /* RequestModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F120A32AB300B42672 /* RequestModifier.swift */; };
+		F15E780A20A32AB600B42672 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F220A32AB300B42672 /* Placeholder.swift */; };
+		F15E780B20A32AB600B42672 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F320A32AB300B42672 /* Image.swift */; };
+		F15E780C20A32AB600B42672 /* FormatIndicatedCacheSerializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F520A32AB300B42672 /* FormatIndicatedCacheSerializer.swift */; };
+		F15E780D20A32AB600B42672 /* CacheSerializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F620A32AB400B42672 /* CacheSerializer.swift */; };
+		F15E780E20A32AB600B42672 /* ImagePrefetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F720A32AB400B42672 /* ImagePrefetcher.swift */; };
+		F15E780F20A32AB600B42672 /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F820A32AB400B42672 /* ImageCache.swift */; };
+		F15E781020A32AB600B42672 /* ImageView+Kingfisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77F920A32AB400B42672 /* ImageView+Kingfisher.swift */; };
+		F15E781120A32AB600B42672 /* Kingfisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77FA20A32AB400B42672 /* Kingfisher.swift */; };
+		F15E781220A32AB600B42672 /* Resource.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77FB20A32AB500B42672 /* Resource.swift */; };
+		F15E781320A32AB600B42672 /* KingfisherOptionsInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77FC20A32AB500B42672 /* KingfisherOptionsInfo.swift */; };
+		F15E781420A32AB600B42672 /* UIButton+Kingfisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77FD20A32AB500B42672 /* UIButton+Kingfisher.swift */; };
+		F15E781520A32AB600B42672 /* Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77FE20A32AB600B42672 /* Indicator.swift */; };
+		F15E781620A32AB600B42672 /* AnimatedImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E77FF20A32AB600B42672 /* AnimatedImageView.swift */; };
+		F15E781920A32AD200B42672 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E781820A32AD200B42672 /* SwiftyJSON.swift */; };
+		F15E781B20A32B0000B42672 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E781A20A32B0000B42672 /* TableViewCell.swift */; };
+		F15E781D20A32E4300B42672 /* detailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E781C20A32E4300B42672 /* detailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +74,34 @@
 		F15E77CC20A3266F00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15E77D020A3266F00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests.swift; sourceTree = "<group>"; };
 		F15E77D220A3266F00B42672 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F15E77E520A32A9500B42672 /* JsonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonModel.swift; sourceTree = "<group>"; };
+		F15E77E820A32AB000B42672 /* KingfisherManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KingfisherManager.swift; sourceTree = "<group>"; };
+		F15E77E920A32AB100B42672 /* ImageTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageTransition.swift; sourceTree = "<group>"; };
+		F15E77EA20A32AB100B42672 /* Filter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Filter.swift; sourceTree = "<group>"; };
+		F15E77EB20A32AB100B42672 /* ThreadHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreadHelper.swift; sourceTree = "<group>"; };
+		F15E77EC20A32AB100B42672 /* Box.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
+		F15E77ED20A32AB200B42672 /* ImageModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageModifier.swift; sourceTree = "<group>"; };
+		F15E77EE20A32AB200B42672 /* ImageDownloader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageDownloader.swift; sourceTree = "<group>"; };
+		F15E77EF20A32AB200B42672 /* ImageProcessor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageProcessor.swift; sourceTree = "<group>"; };
+		F15E77F020A32AB200B42672 /* String+MD5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+MD5.swift"; sourceTree = "<group>"; };
+		F15E77F120A32AB300B42672 /* RequestModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestModifier.swift; sourceTree = "<group>"; };
+		F15E77F220A32AB300B42672 /* Placeholder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Placeholder.swift; sourceTree = "<group>"; };
+		F15E77F320A32AB300B42672 /* Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
+		F15E77F420A32AB300B42672 /* Kingfisher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Kingfisher.h; sourceTree = "<group>"; };
+		F15E77F520A32AB300B42672 /* FormatIndicatedCacheSerializer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormatIndicatedCacheSerializer.swift; sourceTree = "<group>"; };
+		F15E77F620A32AB400B42672 /* CacheSerializer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CacheSerializer.swift; sourceTree = "<group>"; };
+		F15E77F720A32AB400B42672 /* ImagePrefetcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePrefetcher.swift; sourceTree = "<group>"; };
+		F15E77F820A32AB400B42672 /* ImageCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
+		F15E77F920A32AB400B42672 /* ImageView+Kingfisher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ImageView+Kingfisher.swift"; sourceTree = "<group>"; };
+		F15E77FA20A32AB400B42672 /* Kingfisher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kingfisher.swift; sourceTree = "<group>"; };
+		F15E77FB20A32AB500B42672 /* Resource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Resource.swift; sourceTree = "<group>"; };
+		F15E77FC20A32AB500B42672 /* KingfisherOptionsInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KingfisherOptionsInfo.swift; sourceTree = "<group>"; };
+		F15E77FD20A32AB500B42672 /* UIButton+Kingfisher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Kingfisher.swift"; sourceTree = "<group>"; };
+		F15E77FE20A32AB600B42672 /* Indicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Indicator.swift; sourceTree = "<group>"; };
+		F15E77FF20A32AB600B42672 /* AnimatedImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatedImageView.swift; sourceTree = "<group>"; };
+		F15E781820A32AD200B42672 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		F15E781A20A32B0000B42672 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		F15E781C20A32E4300B42672 /* detailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +152,13 @@
 		F15E77AF20A3266E00B42672 /* SwiftJSONPARSINGDispalyimageDetailVCTAbleview */ = {
 			isa = PBXGroup;
 			children = (
+				F15E781720A32AC500B42672 /* Swiftyjson */,
+				F15E77E720A32AA000B42672 /* Kingfishor */,
+				F15E77E420A32A8A00B42672 /* Model */,
 				F15E77B020A3266E00B42672 /* AppDelegate.swift */,
 				F15E77B220A3266E00B42672 /* ViewController.swift */,
+				F15E781A20A32B0000B42672 /* TableViewCell.swift */,
+				F15E781C20A32E4300B42672 /* detailTableViewController.swift */,
 				F15E77B420A3266E00B42672 /* Main.storyboard */,
 				F15E77B720A3266E00B42672 /* Assets.xcassets */,
 				F15E77B920A3266E00B42672 /* LaunchScreen.storyboard */,
@@ -123,6 +183,55 @@
 				F15E77D220A3266F00B42672 /* Info.plist */,
 			);
 			path = SwiftJSONPARSINGDispalyimageDetailVCTAbleviewUITests;
+			sourceTree = "<group>";
+		};
+		F15E77E420A32A8A00B42672 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F15E77E520A32A9500B42672 /* JsonModel.swift */,
+			);
+			name = Model;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		F15E77E720A32AA000B42672 /* Kingfishor */ = {
+			isa = PBXGroup;
+			children = (
+				F15E77FF20A32AB600B42672 /* AnimatedImageView.swift */,
+				F15E77EC20A32AB100B42672 /* Box.swift */,
+				F15E77F620A32AB400B42672 /* CacheSerializer.swift */,
+				F15E77EA20A32AB100B42672 /* Filter.swift */,
+				F15E77F520A32AB300B42672 /* FormatIndicatedCacheSerializer.swift */,
+				F15E77F320A32AB300B42672 /* Image.swift */,
+				F15E77F820A32AB400B42672 /* ImageCache.swift */,
+				F15E77EE20A32AB200B42672 /* ImageDownloader.swift */,
+				F15E77ED20A32AB200B42672 /* ImageModifier.swift */,
+				F15E77F720A32AB400B42672 /* ImagePrefetcher.swift */,
+				F15E77EF20A32AB200B42672 /* ImageProcessor.swift */,
+				F15E77E920A32AB100B42672 /* ImageTransition.swift */,
+				F15E77F920A32AB400B42672 /* ImageView+Kingfisher.swift */,
+				F15E77FE20A32AB600B42672 /* Indicator.swift */,
+				F15E77F420A32AB300B42672 /* Kingfisher.h */,
+				F15E77FA20A32AB400B42672 /* Kingfisher.swift */,
+				F15E77E820A32AB000B42672 /* KingfisherManager.swift */,
+				F15E77FC20A32AB500B42672 /* KingfisherOptionsInfo.swift */,
+				F15E77F220A32AB300B42672 /* Placeholder.swift */,
+				F15E77F120A32AB300B42672 /* RequestModifier.swift */,
+				F15E77FB20A32AB500B42672 /* Resource.swift */,
+				F15E77F020A32AB200B42672 /* String+MD5.swift */,
+				F15E77EB20A32AB100B42672 /* ThreadHelper.swift */,
+				F15E77FD20A32AB500B42672 /* UIButton+Kingfisher.swift */,
+			);
+			path = Kingfishor;
+			sourceTree = "<group>";
+		};
+		F15E781720A32AC500B42672 /* Swiftyjson */ = {
+			isa = PBXGroup;
+			children = (
+				F15E781820A32AD200B42672 /* SwiftyJSON.swift */,
+			);
+			name = Swiftyjson;
+			path = "New Group1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +368,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F15E780D20A32AB600B42672 /* CacheSerializer.swift in Sources */,
+				F15E781620A32AB600B42672 /* AnimatedImageView.swift in Sources */,
+				F15E780E20A32AB600B42672 /* ImagePrefetcher.swift in Sources */,
+				F15E77E620A32A9500B42672 /* JsonModel.swift in Sources */,
+				F15E781220A32AB600B42672 /* Resource.swift in Sources */,
+				F15E781B20A32B0000B42672 /* TableViewCell.swift in Sources */,
+				F15E780720A32AB600B42672 /* ImageProcessor.swift in Sources */,
+				F15E780220A32AB600B42672 /* Filter.swift in Sources */,
+				F15E780820A32AB600B42672 /* String+MD5.swift in Sources */,
+				F15E780B20A32AB600B42672 /* Image.swift in Sources */,
+				F15E780920A32AB600B42672 /* RequestModifier.swift in Sources */,
+				F15E780320A32AB600B42672 /* ThreadHelper.swift in Sources */,
+				F15E781120A32AB600B42672 /* Kingfisher.swift in Sources */,
+				F15E781320A32AB600B42672 /* KingfisherOptionsInfo.swift in Sources */,
+				F15E780F20A32AB600B42672 /* ImageCache.swift in Sources */,
+				F15E780120A32AB600B42672 /* ImageTransition.swift in Sources */,
+				F15E781D20A32E4300B42672 /* detailTableViewController.swift in Sources */,
+				F15E781920A32AD200B42672 /* SwiftyJSON.swift in Sources */,
 				F15E77B320A3266E00B42672 /* ViewController.swift in Sources */,
+				F15E780520A32AB600B42672 /* ImageModifier.swift in Sources */,
+				F15E780620A32AB600B42672 /* ImageDownloader.swift in Sources */,
+				F15E780C20A32AB600B42672 /* FormatIndicatedCacheSerializer.swift in Sources */,
+				F15E781520A32AB600B42672 /* Indicator.swift in Sources */,
+				F15E780420A32AB600B42672 /* Box.swift in Sources */,
+				F15E781420A32AB600B42672 /* UIButton+Kingfisher.swift in Sources */,
+				F15E781020A32AB600B42672 /* ImageView+Kingfisher.swift in Sources */,
 				F15E77B120A3266E00B42672 /* AppDelegate.swift in Sources */,
+				F15E780020A32AB600B42672 /* KingfisherManager.swift in Sources */,
+				F15E780A20A32AB600B42672 /* Placeholder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,6 +563,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UQS9CNTUX7;
 				INFOPLIST_FILE = SwiftJSONPARSINGDispalyimageDetailVCTAbleview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Com.infostretch.SwiftJSONPARSINGDispalyimageDetailVCTAbleview;
@@ -441,6 +578,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UQS9CNTUX7;
 				INFOPLIST_FILE = SwiftJSONPARSINGDispalyimageDetailVCTAbleview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Com.infostretch.SwiftJSONPARSINGDispalyimageDetailVCTAbleview;
